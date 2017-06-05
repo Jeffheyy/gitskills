@@ -1,8 +1,6 @@
 # gitskills
 learn git
 
-<<<<<<< HEAD
 Creating a new branch is quick AND simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+
+here is issue-01 bug branch.
